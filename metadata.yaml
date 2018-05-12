@@ -1,0 +1,35 @@
+_repo: Letters-of-a-Diplomat-s-Wife-1883-1900_38825
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Waddington, Mary King
+    aliases:
+    - Waddington, Mary Alsop King
+    - King, Mary Alsop
+    birthdate: 1833
+    deathdate: 1923
+    gutenberg_agent_id: '3261'
+    url: http://www.gutenberg.org/2009/agents/3261
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Alsop_King_Waddington
+  editor:
+    agent_name: McIlvaine, Tompkins
+    gutenberg_agent_id: '38700'
+    url: http://www.gutenberg.org/2009/agents/38700
+description: ''
+gutenberg_issued: '2012-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38825'
+  lccn: 03012886
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Europe -- Social life and customs'
+- !lcc 'D'
+title: Letters of a Diplomat's Wife, 1883-1900
+url: http://www.gutenberg.org/ebooks/38825
